@@ -1,8 +1,3 @@
-# 0.4.2 (January 11, 2019)
-
-* Add `Slab::drain` (#56).
-
-# 0.4.1 (July 15, 2018)
-
-* Improve `reserve` and `reserve_exact` (#37).
-* Implement `Default` for `Slab` (#43).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f61243fdf15892a03150fad73f0e9bb959845e91596df87d1733874800f34e
+size 168
